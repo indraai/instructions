@@ -1,4 +1,4 @@
-# Instructions
+# instructions
 
 Welcome to the instructions section. Here you will find various instruction sets that we have developed for interacting with the Indra Quantum Computing  Environment.
 
