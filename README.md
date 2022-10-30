@@ -6,4 +6,4 @@ As with any advanced technology learning how to properly interact and use it are
 
 ## Basic Instructions
 
-[#DEVA](https://indra.ai/instructions/basic/deva.feecting) - #DEVA - are the beginning sert of instructions for getting going with the #IQCE. We recommend learning these instructions before moving onto the more specialized or advanced instructions.
+[#DEVA](https://github.com/indraai/instructions/blob/main/basic/deva.feecting) - #DEVA - are the beginning sert of instructions for getting going with the #IQCE. We recommend learning these instructions before moving onto the more specialized or advanced instructions.
