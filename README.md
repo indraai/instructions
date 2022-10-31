@@ -14,5 +14,6 @@ Clone the repository to your machine or server.
 
 ---
 
+[Github Repo](https://github.com/indraai/corpus)  
 [Back to indra.ai](https://indra.ai)  
 &copy;2022 Quinn Michaels; All Rights Reserved.
