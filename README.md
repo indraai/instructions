@@ -4,11 +4,15 @@ Welcome to the instructions section. Here you will find various instruction sets
 
 As with any advanced technology learning how to properly interact and use it are essential to your success. Here we hope to facilitate your success by providing the instructions you need to get moving.
 
-`> git clone https://github.com/indraai/corpus.git`
 
-## Basic Instructions
+Access the instructions from the deva.world interface.  
+`$ #feecting get https://indra.ai/instructions/main.feecting`
 
-[#DEVA](https://github.com/indraai/instructions/blob/main/main.feecting) - #DEVA - are the beginning sert of instructions for getting going with the #IQCE. We recommend learning these instructions before moving onto the more specialized or advanced instructions.
+Clone the repository to your machine or server.  
+`$ git clone https://github.com/indraai/corpus.git`
+
+
+---
 
 [Back to indra.ai](https://indra.ai)  
 &copy;2022 Quinn Michaels; All Rights Reserved.
