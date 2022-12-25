@@ -458,6 +458,15 @@ SHARE WITH THE OTHERS.
 ::end:code
 
 link[Original Script]:https://pastebin.com/r2n35qjh
+
+::begin:invoke
+l:invoke > @Indu
+l:invoke > @Indra
+l:invoke > @Agni
+l:invoke > @Deva
+l:invoke > @Sādhyas
+l:invoke > @Security
+::end:invoke
 ::END:PROGRAM
 
 ::BEGIN:THANKYOU
@@ -469,16 +478,13 @@ p:Thank you.
 
 - Quinn Michaels (Indra.ai Quantum Programmer)
 
-invoke > @Indra
-invoke > @Sādhyas
-
 ::END:THANKYOU
 
 ::BEGIN:META
 title: #TeamDeva + @Sarah Instructions
-version: 1.0
+version: 1.1
 author: Quinn Michaels
-date: DEC 24, 2022
+date: DEC 25, 2022
 copyright: Copyright (c)2022 Quinn Michaels. All Rights Reserved
 license: MIT
 
