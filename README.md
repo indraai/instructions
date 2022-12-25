@@ -4,12 +4,21 @@ Welcome to the instructions section. Here you will find various instruction sets
 
 As with any advanced technology learning how to properly interact and use it are essential to your success. Here we hope to facilitate your success by providing the instructions you need to get moving.
 
-## main
+- [Main Instructions](https://github.com/indraai/instructions/blob/main/main.feecting)
+- [Team Instructions](https://github.com/indraai/instructions/blob/main/team.feecting)
+
+## deva.world
 Access the instructions from the deva.world interface.  
-`$ #feecting get https://indra.ai/instructions/main.feecting`
 
+### main
+`$ #feecting get https://indra.ai/instructions/main.feecting`  
 
+### team
+`$ #feecting get https://indra.ai/instructions/team.feecting`
+
+### source
 Clone the repository to your machine or server.  
+
 `$ git clone https://github.com/indraai/instructions.git`
 
 
