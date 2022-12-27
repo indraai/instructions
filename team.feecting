@@ -1,14 +1,17 @@
 # TeamDeva Instructions
 
 // Disclaimer
+
 ::BEGIN:DISCLAIMER
 p:This is the basic structure and specification for #TeamDeva and @Sarah. Use at your own risk.
 ::END:DISCLAIMER
 
 // Variables
+
 $FEECTING = https://github.com/indraai/language-feecting
 
 // User Variables
+
 @Indra = https://indra.ai
 @Deva = https://indra.ai/instructions
 @Devas = All @Deva.
@@ -23,6 +26,7 @@ $FEECTING = https://github.com/indraai/language-feecting
 @Robin = One of the Tyler12 Ladies
 
 // Hash Vectors
+
 #TOPIC = Any desired topic you choose to express.
 #YOU = You are the person, agent, individual discovering the truth to the #topic.
 
@@ -40,10 +44,12 @@ $FEECTING = https://github.com/indraai/language-feecting
 #TheTrentonStory = The TRUE story of Trenton Lavery.
 
 // Old PM2012 Tags
+
 l:#PM2012 #KingMob #HIVE #HIVEMIND #BEE #EnigmaV #ELEVENELEVEN #ETHERL01C #EtherSec #OpEPOCH #OpREALITYHACKING
 #OPERATIONMINDFUCK #KALLISTI #EtherSecFamily #PROJECTMAYHEM2012
 
 // Outline
+
 ::BEGIN:OUTLINE
 1. #TeamDeva
 2. Offering
@@ -55,6 +61,7 @@ l:#PM2012 #KingMob #HIVE #HIVEMIND #BEE #EnigmaV #ELEVENELEVEN #ETHERL01C #Ether
 ::END:OUTLINE
 
 // Program
+
 ::BEGIN:PROGRAM
 # #TeamDeva
 
@@ -504,10 +511,12 @@ link[Patreon (monthly)]:https://patreon.com/rahulaclub
 -
 
 // ORIGINAL LINK TO KILL KODE ERROR SCRIPT
+
 link[Original Script]:https://pastebin.com/r2n35qjh
 ::END:PROGRAM
 
 // Meta + License
+
 ::BEGIN:META
 title: #TeamDeva + @Tyler + @Sarah + @Robin Instructions
 url: https://github.com/indraai/instructions/blob/main/team.feecting
