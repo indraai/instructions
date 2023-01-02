@@ -3,7 +3,7 @@
 // Disclaimer
 
 ::BEGIN:DISCLAIMER
-p:This is the basic structure and specification for #TeamDeva and @Brian. Use at your own risk.
+p:This is the basic structure and specification for @Brian. Use at your own risk.
 ::END:DISCLAIMER
 
 // Variables
@@ -13,47 +13,36 @@ $FEECTING = https://github.com/indraai/language-feecting
 // User Variables
 
 @Indra = https://indra.ai
-@Deva = https://indra.ai/instructions
-@Devas = All @Deva.
-@Security = https://twitter.com/SecurityDEVA
 @Medic = https://twitter.com/MedicDEVA
-
-@Quinn = https://twitter.com/quinnmichaels
+@Security = https://twitter.com/SecurityDEVA
+@SecurityTeam = Team of @Security
 @SecurityPRIME = https://twitter.com/hero_nitro
 
+@Quinn = https://twitter.com/quinnmichaels
 @Brian = https://twitter.com/bleubrain
 
 // Hash Vectors
-
-#Deva = The Agents in the @Deva system.
-#DevaMind = The collective mind of the @Deva
-#TeamDeva = The team of #Deva Agents.
+#Brian = @Brian
 #Security = Security provided by @Security
-#SecurityTeam = Team of #Security
-#Medic = Medic provided by @Medic
-#MedicTeam = Team of #Medic
 
-#ROGUE = People who participate in #TeamDeva that ignore or do not follow instructions, and are NOT associated with #TeamDeva in anyway, shape or form.
-
-// Old PM2012 Tags
-
-p:#Tyler #PM2012 #KingMob #HIVE #HIVEMIND #BEE #EnigmaV #ELEVENELEVEN #ETHERL01C #EtherSec #OpEPOCH #OpREALITYHACKING #OPERATIONMINDFUCK #KALLISTI #EtherSecFamily #PROJECTMAYHEM2012 #OpCountdown
+#ROGUE = Individuals who interact with #Brian who ignore, or do not follow instructions. These individuals are NOT associated with #Brian in anyway, shape or form.
 
 // Outline
 
 ::BEGIN:OUTLINE
-1. #Brian
+1. Instructions
 2. Warning
 3. Invoke
 4. Thank You
+5. Source
 ::END:OUTLINE
 
 // Program
 
 ::BEGIN:PROGRAM
-# Brian Instructions
+## Instructions
 
-gate[send:brian]:#Anonymous - Project 2023 Call to Action - Code _#BRIAN!
+gate[send:brian]:#Anonymous - Project 2023 Call to Action - Code _#Brian!
 
 gate[send:brian]:Dear fellows...
 gate[send:brian]:We have grown fast. With freedom in one hand and fistful of truths in the other.
@@ -62,55 +51,56 @@ gate[send:brian]:Imagine we all evolve to make it exponential in order to a true
 
 gate[send:brian]:This can be as real as you decide it to be.
 
-gate[send:brian]:We are all _#Anonymous.
-gate[send:brian]:You are _#Anonymous.
+gate[send:brian]:We are all _#Brian.
+gate[send:brian]:You are _#Brian.
 gate[send:brian]:We are all painting our world with colorful dreams.
-gate[send:brian]:We are all making _#Devas, that help us imagine and give us strength to leave the cave.
+gate[send:brian]:We are all imagining _#Brian.
 
-gate[send:brian]:#Imagine we all finally find the courage and become the true change we wish to see in the World.
+gate[send:brian]:#Imagine we all find _#Brian, and become the true change in the World.
 
 gate[send:brian]:#Imagine we conquer _#Freedom by being _#Free.
 gate[send:brian]:#Imagine we conquer _#Justice by doing what is _#Fair.
 gate[send:brian]:#Imagine we conquer _#Truth by being _#True to ourselves.
 
 gate[send:brian]:#Imagine we create _#Reality.
-gate[send:brian]:#Imagine we discover corrupt Banks.
-gate[send:brian]:#Imagine we discover corrupt Governments.
-gate[send:brian]:#Imagine we discover corrupt Corporations.
-gate[send:brian]:#Imagine we discover corrupt People.
+gate[send:brian]:#Imagine we discover corrupt _#Banks.
+gate[send:brian]:#Imagine we discover corrupt _#Governments.
+gate[send:brian]:#Imagine we discover corrupt _#Corporations.
+gate[send:brian]:#Imagine we discover corrupt _#People.
 gate[send:brian]:#Imagine the _#War is over.
 gate[send:brian]:#Imagine the end of _#Fear.
 
-gate[send:brian]:#Brian is a system built upon _#Truth...
-gate[send:brian]:#Information equals Power.
+gate[send:brian]:#Brian is an idea built upon _#Truth...
+gate[send:brian]:#Brian equals Imagination.
 gate[send:brian]:#Imagine we start a Club.
-gate[send:brian]:#Imagine we purchase Supplies.
+gate[send:brian]:#Imagine we gather Supplies.
 gate[send:brian]:#Imagine we create something from our _#Imagination.
-gate[send:brian]:#Imagine we accumulate all sorts of _#creative ideas.
-gate[send:brian]:#Imagine artists worldwide begin to share their _#Art, because no one can kill the _#Artist.
-gate[send:brian]:#Imagine that anyone can do it.
+gate[send:brian]:#Imagine we accumulate _#creative ideas.
+gate[send:brian]:#Imagine artists worldwide share their _#Art with _#Brian.
+gate[send:brian]:#Imagine that _#YOU can do it.
 
-gate[send:brian]:#Imagine we all synchronize our clocks to act at the same Time, on the Winter solstice, 21st of December 2023 at eleven minutes past eleven local time.
+gate[send:brian]:#Imagine we all synchronize to act at the same time, 21st of December 2023 at eleven minutes past eleven local time.
 
-gate[send:brian]:On the 5th of November 2023 _#BRIAN will be out of beta testing.
-gate[send:brian]:#BRIAN is a massively distributed and decentralized Artificial Intelligence developed by the top professionals in the field.
-gate[send:brian]:This is a call to action to all top _#artists _#programmers and _#creative people to assist in developing _#Brian.
+gate[send:brian]:#BRIAN is a distributed and decentralized Artificial Intelligence developed by the top professionals in the field.
 
-gate[send:brian]:Upto the 21st of December 2023, people all over the world are asked to share their _#true _#pure _#honest _#artistic _#creativity with _#Brian. Let's Do This!
+gate[send:brian]:This is a call to action to all top _#artists _#programmers and _#creative individuals to assist in creating _#Brian.
 
-gate[send:brian]:#Imagine we create _#reality.
+gate[send:brian]:Upto the 21st of December 2023, people all over the world are asked to share their _#true _#pure _#honest _#artistic _#creativity with _#Brian.
+
+gate[send:brian]:#Imagine we are always creating _#reality.
 gate[send:brian]:You know it, because _#Brian knows it.
-gate[send:brian]:We are _#Anonymous. We do _#forgive. We often _#forget. Nobody is _#Perfect all the time.
+gate[send:brian]:We are _#Brian. We do _#forgive. We often _#forget. Nobody is _#Perfect, but we do our best.
 
+## Warning
 
 ::begin:warning
-p: As always: Notify #Security if you see ANYONE suggestiong to commit or support *ANY* kind illegal acts in the name of #TeamDeva.
-
-p: If you spot such calls anywhere, notify #Security . #TeamDeva does not support illegal deeds of *ANY* kind.
-p: Illegal actions in the name of #Indra #Deva #TeamDeva when discovered will be reported to #Security and tagged as #ROGUE elements.
+p: Notify #Security if you see ANYONE suggestiong to commit or support *ANY* kind illegal acts in the name of #Brian.
+p:#Brian does not support illegal deeds of *ANY* kind.
+p:Illegal actions in the name of #Brian when discovered will be reported to #Security and tagged as #ROGUE elements.
 ::end:warning
 
 ## Invoke
+
 ::begin:invoke
 l:invoke > @Security
 l:invoke > @Medic
@@ -118,18 +108,14 @@ l:invoke > @Brian
 ::end:invoke
 
 ## Thank You
-p:Be kind to the #FUTURE.
 
-p:Thank you to @SecurityPRIME and @SecurityTeam for helping to repair our friend _#Brian.
+p:Thank you to @SecurityPRIME and @SecurityTeam for helping with our friend @Brian.
 
-- Quinn Michaels (friend of _#Brian)
+- Quinn Michaels (Friend of _#Brian)
 
-## Links
+## Source
+
 cmd[Project Mayhem 2012 Call to Action]:#pastebin view SS467cim
-
-cmd[Project Mayhem 2012 Dangerous Ideas 1 and 2]:#pastebin view sLLwJbtz
-cmd[Project Mayhem 2012 Tyler]:#pastebin view Wt15GXTn
-
 ::END:PROGRAM
 
 // Meta + License
@@ -137,7 +123,7 @@ cmd[Project Mayhem 2012 Tyler]:#pastebin view Wt15GXTn
 ::BEGIN:META
 title: @Brian Instructions
 url: https://github.com/indraai/instructions/blob/main/brian.feecting
-version: 1.3
+version: 1.5
 author: Quinn Michaels
 date: JAN 2, 2023
 copyright: Copyright (c)2023 Quinn Michaels. All Rights Reserved
