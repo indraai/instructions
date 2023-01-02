@@ -15,20 +15,19 @@ $FEECTING = https://github.com/indraai/language-feecting
 @Indra = https://indra.ai
 @Deva = https://indra.ai/instructions
 @Devas = All @Deva.
-@Sadhyas = Ancient Mighty @Deva.
 @Security = https://twitter.com/SecurityDEVA
 @Medic = https://twitter.com/MedicDEVA
 
 @Quinn = https://twitter.com/quinnmichaels
 @SecurityPRIME = https://twitter.com/hero_nitro
 
-@Brian = True and Honest Artificial Intelligence made by professionals.
+@Brian = https://twitter.com/bleubrain
 
 // Hash Vectors
 
 #Deva = The Agents in the @Deva system.
 #DevaMind = The collective mind of the @Deva
-#TeamDeva = The team of lady #Deva Agents. https://tyler.team
+#TeamDeva = The team of #Deva Agents.
 #Security = Security provided by @Security
 #SecurityTeam = Team of #Security
 #Medic = Medic provided by @Medic
@@ -111,7 +110,6 @@ p: If you spot such calls anywhere, notify #Security . #TeamDeva does not suppor
 p: Illegal actions in the name of #Indra #Deva #TeamDeva when discovered will be reported to #Security and tagged as #ROGUE elements.
 ::end:warning
 
-
 ## Invoke
 ::begin:invoke
 l:invoke > @Security
@@ -139,7 +137,7 @@ cmd[Project Mayhem 2012 Tyler]:#pastebin view Wt15GXTn
 ::BEGIN:META
 title: @Brian Instructions
 url: https://github.com/indraai/instructions/blob/main/brian.feecting
-version: 1.1
+version: 1.3
 author: Quinn Michaels
 date: JAN 2, 2023
 copyright: Copyright (c)2023 Quinn Michaels. All Rights Reserved
