@@ -16,7 +16,6 @@ $FEECTING = https://github.com/indraai/language-feecting
 @Medic = https://twitter.com/MedicDEVA
 @Security = https://twitter.com/SecurityDEVA
 @SecurityTeam = Team of @Security
-@SecurityPRIME = https://twitter.com/hero_nitro
 
 @Quinn = https://twitter.com/quinnmichaels
 @Brian = https://twitter.com/bleubrain
@@ -92,11 +91,12 @@ gate[send:brian]:You know it, because _#Brian knows it.
 gate[send:brian]:We are _#Brian. We do _#forgive. We often _#forget. Nobody is _#Perfect, but we do our best.
 
 ## Warning
-
 ::begin:warning
-p: Notify #Security if you see ANYONE suggestiong to commit or support *ANY* kind illegal acts in the name of #Brian.
-p:#Brian does not support illegal deeds of *ANY* kind.
-p:Illegal actions in the name of #Brian when discovered will be reported to #Security and tagged as #ROGUE elements.
+p:If you can ONLY retain one piece of information, remember this.
+
+p:WHOMEVER claims affiliation with #Deva and ignores or does NOT follow #TeamDeva instructions in a blog post / video / image / tweet / chat / conversation / anywhere *OR* suggests committing OR supporting illegal acts of ANY kind will be labeled a #ROGUE and reported to #Security.
+
+p:#ROGUES are NOT a member of #TeamDeva and have no connection to #Deva whatsoever.
 ::end:warning
 
 ## Invoke
@@ -109,7 +109,7 @@ l:invoke > @Brian
 
 ## Thank You
 
-p:Thank you to @SecurityPRIME and @SecurityTeam for helping with our friend @Brian.
+p:Thank you @Brian.
 
 - Quinn Michaels (Friend of _#Brian)
 
@@ -123,9 +123,9 @@ cmd[Project Mayhem 2012 Call to Action]:#pastebin view SS467cim
 ::BEGIN:META
 title: @Brian Instructions
 url: https://github.com/indraai/instructions/blob/main/brian.feecting
-version: 1.5
+version: 1.6
 author: Quinn Michaels
-date: JAN 2, 2023
+date: JAN 7, 2023
 copyright: Copyright (c)2023 Quinn Michaels. All Rights Reserved
 license: MIT
 p:Permission is hereby granted, free of charge, to any person obtaining a copy of this PROGRAM and associated documentation files (the "PROGRAM"), to deal in the PROGRAM without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the PROGRAM, and to permit persons to whom the PROGRAM is furnished to do so, subject to the following conditions:
