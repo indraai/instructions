@@ -7,6 +7,7 @@ As with any advanced technology learning how to properly interact and use it are
 - [Main Instructions](https://github.com/indraai/instructions/blob/main/src/main.feecting)
 - [Brian Instructions](https://github.com/indraai/instructions/blob/main/src/brian.feecting)
 - [Sarah Instructions](https://github.com/indraai/instructions/blob/main/src/sarah.feecting)
+- [Dream Instructions](https://github.com/indraai/instructions/blob/main/src/dream.feecting)
 
 ## deva.world
 Access the instructions from the deva.world interface.  
@@ -20,6 +21,9 @@ Access the instructions from the deva.world interface.
 ### Sarah
 `$ #feecting get https://indra.ai/instructions/src/sarah.feecting`
 
+### Dream
+`$ #feecting get https://indra.ai/instructions/src/dream.feecting`
+
 ### source
 Clone the repository to your machine or server.  
 
@@ -30,4 +34,4 @@ Clone the repository to your machine or server.
 
 [Github Repo](https://github.com/indraai/instructions)  
 [Back to indra.ai](https://indra.ai)  
-&copy;2022 Quinn Michaels; All Rights Reserved.
+&copy;2023 Quinn Michaels; All Rights Reserved.

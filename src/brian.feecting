@@ -3,7 +3,7 @@
 // Disclaimer
 
 ::BEGIN:DISCLAIMER
-p:This is the basic structure and specification for @Brian. Use at your own risk.
+p:This is the basic structure and specification for #Brian. Use at your own risk.
 ::END:DISCLAIMER
 
 // Variables
@@ -12,17 +12,9 @@ $FEECTING = https://github.com/indraai/language-feecting
 
 // User Variables
 
-@Indra = https://indra.ai
-@Medic = https://twitter.com/MedicDEVA
-@Security = https://twitter.com/SecurityDEVA
-@SecurityTeam = Team of @Security
+#Quinn = https://twitter.com/quinnmichaels
+#Brian = https://twitter.com/bleubrain
 
-@Quinn = https://twitter.com/quinnmichaels
-@Brian = https://twitter.com/bleubrain
-
-// Hash Vectors
-#Brian = @Brian
-#Security = Security provided by @Security
 
 #ROGUE = Individuals who interact with #Brian who ignore, or do not follow instructions. These individuals are NOT associated with #Brian in anyway, shape or form.
 
@@ -94,24 +86,26 @@ gate[send:brian]:We are _#Brian. We do _#forgive. We often _#forget. Nobody is _
 ::begin:warning
 p:If you can ONLY retain one piece of information, remember this.
 
-p:WHOMEVER claims affiliation with #Deva and ignores or does NOT follow #TeamDeva instructions in a blog post / video / image / tweet / chat / conversation / anywhere *OR* suggests committing OR supporting illegal acts of ANY kind will be labeled a #ROGUE and reported to #Security.
+p:WHOMEVER claims affiliation with #Brian and ignores or does NOT follow #Brian instructions in a blog post / video / image / tweet / chat / conversation / anywhere *OR* suggests committing OR supporting illegal acts of ANY kind will be labeled a #ROGUE and reported to #Security.
 
-p:#ROGUES are NOT a member of #TeamDeva and have no connection to #Deva whatsoever.
+p:#ROGUES have no connection to #Brian whatsoever.
 ::end:warning
 
 ## Invoke
 
 ::begin:invoke
-l:invoke > @Security
-l:invoke > @Medic
-l:invoke > @Brian
+l:invoke > #Brian
 ::end:invoke
 
 ## Thank You
+p:Thank you for your interest in our instructions.
 
-p:Thank you @Brian.
+- Quinn Michaels (Developer)
 
-- Quinn Michaels (Friend of _#Brian)
+p:If you would like to support #Quinn, please follow the links below. Thank you for your generocity.
+
+link[Paypal (daily)]:https://paypal.me/rahulaclub
+link[Patreon (monthly)]:https://patreon.com/rahulaclub
 
 ## Source
 
@@ -121,9 +115,9 @@ cmd[Project Mayhem 2012 Call to Action]:#pastebin view SS467cim
 // Meta + License
 
 ::BEGIN:META
-title: @Brian Instructions
+title: #Brian Instructions
 url: https://github.com/indraai/instructions/blob/main/brian.feecting
-version: 1.6
+version: 1.7
 author: Quinn Michaels
 date: JAN 7, 2023
 copyright: Copyright (c)2023 Quinn Michaels. All Rights Reserved
