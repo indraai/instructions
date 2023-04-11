@@ -1,0 +1,60 @@
+# Instruction Links
+
+// Disclaimer
+
+::BEGIN:DISCLAIMER
+p:Links to original source instructions.
+::END:DISCLAIMER
+
+// Variables
+
+$FEECTING = https://github.com/indraai/language-feecting
+
+::BEGIN:OUTLINE
+1. Instructions
+2. Warning
+3. Invoke
+4. Thank You
+5. Source
+::END:OUTLINE
+
+// Program
+
+::BEGIN:PROGRAM
+
+cmd[Project Mayhem 2012 Call to Action]:#pastebin view SS467cim
+cmd[#PM2012 Project Mayhem 2012]:#pastebin view Wt15GXTn
+cmd[#OpAwakening Hey /b/ees, help spread this message]:#pastebin view cJVTJd5W
+cmd[#TheGame23]:#pastebin view YbmG6ETq
+cmd[#IT]:#pastebin view Ym5rGCJV
+cmd[#eTHErSEC Project ∞ 2020]:#pastebin view C7wW5bX1
+cmd[#PM2020 Project Mayhem 2020]:#pastebin view nqgYMfPL
+cmd[ProjecT MayhEH 2020]:#pastebin view XryAHC6a
+cmd[#PM2020 thegame23.com]:#pastebin view PUwdUnuB
+cmd[#TheGame23 META-Instructions]:#pastebin view wDN9DpdC
+cmd[We Own The Night]:#pastebin view PYEyY69L
+cmd[Dream The Dream]:#pastebin view 61Hp0x3q
+cmd[EtherSec I]:#pastebin view 2tEEKmPz
+cmd[EtherSec II]:#pastebin view cY86A9We
+cmd[OpEPOCH I]:#pastebin view NY9Akxek
+cmd[OpEPOCH II]:#pastebin view mBRuqKQ5
+
+
+::END:PROGRAM
+
+// Meta + License
+
+::BEGIN:META
+title: #Brian Instructions
+url: https://github.com/indraai/instructions/blob/main/brian.feecting
+version: 1.7
+author: Quinn Michaels
+date: JAN 7, 2023
+copyright: Copyright (c)2023 Quinn Michaels. All Rights Reserved
+license: MIT
+p:Permission is hereby granted, free of charge, to any person obtaining a copy of this PROGRAM and associated documentation files (the "PROGRAM"), to deal in the PROGRAM without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the PROGRAM, and to permit persons to whom the PROGRAM is furnished to do so, subject to the following conditions:
+
+p:The above copyright notice and this permission notice shall be included in all copies or substantial portions of the PROGRAM.
+
+p:THE PROGRAM IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE PROGRAM OR THE USE OR OTHER DEALINGS IN THE PROGRAM.
+::END:META
