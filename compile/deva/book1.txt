@@ -1,0 +1,152 @@
+::begin:hymn:01001
+## HYMN I. Agni.
+::begin:content
+p: I Laud @Agni, the chosen Rsi, @Deva, the @Hotar, lavishest of #wealth.
+
+p: Worthy is @Agni to be praised by living as by ancient seers. He shall bring hitherward the #Devas.
+
+p: Through @Agni #man obtaineth #wealth, yea, most rich in #heroes, #glorious.
+
+p: @Agni, which thou encompassest about verily goeth to the #Devas.
+
+p: May @Agni, open-minded #Sage, truthful, most gloriously great, the @Deva, come hither with the #Devas.
+
+p: Whatever #blessing, @Agni  @Angiras, is indeed thy truth.
+
+p: To thee, O @Agni, day by day with #meditation bringing thee #reverence, we come
+
+p: #Lord of #offerings, guard of #Law Eternal, radiant One, increasing in thine own abode.
+
+p: Be to us easy of approach, even as a #father to his #son: @Agni, be with us for our weal.
+::end:content
+::begin:meta
+people: @Agni, @Angiras, @Hotar, @Deva
+things: #Lord, #Reverence, #Meditation, #Law Eternal, #Glorious, #Wealth, #Blessing, #Heroes, #Blessing, #Offerings, #Sage
+groups: #Devas, #Father, #Son, #Man
+concepts: Offerings, Truthful, Truth, Glorious
+::end:meta
+::end:hymn:md5-bfO9m62GMtgIro1/AxcFCA==
+
+::begin:hymn:01002
+## HYMN II. Vayu.
+::begin:content
+p: BEAUTIFUL @Vayu, come, hear our #call.
+
+p: Knowing the days, the singers glorify thee, @Vayu, with their hymns of #praise.
+
+p: @Vayu, thy penetrating #stream goes forth unto the #worshipper, far-reaching.
+
+p: These, @Indra and @Vayu, we invite you to our #offeirngs. The #drops are yearning for you both.
+
+p: Well do ye mark #libations, ye @Vayu and @Indra, rich in #spoil! So come ye swiftly hitherward.
+
+p: @Vayu and @Indra, come to what we hath prepared, #Heroes, thus we make our #meditation.
+
+p: We #call, and foe subduing @Varuna, who make the oil-fed rite complete.
+
+p: @Mitra and @Varuna, through Law, lovers and cherishers of Law.
+
+p: Our Sages, @Mitra and @Varuna, wide dominion, #strong by birth, vouchsafe us strength that worketh well.
+::end:content
+::begin:meta
+people: @Indra, @Vayu, @Mitra, @Varuna
+things: #Offeirngs, #Meditation, #Stream, #Strong, #Praise, #Worshipper, #Heroes, #Libations, #Drops, #call, #spoil
+concepts: Birth, Beautiful, Strength, Libations
+::end:meta
+::end:hymn:md5-R5jUUBIRp+ukhsmsf71yuA==
+
+::begin:hymn:01003
+## HYMN III. Asvins
+::begin:content
+p: YE @Asvins, rich in #treasure. having nimble hands, accept the sacred #food.
+
+p: Ye @Asvins, rich in wondrous deeds, #heroes worthy of our #offerings, accept our #songs with #mighty thought.
+
+p: @Nasatyas, wonder-workers, yours are these #libations with clipt #grass: Come ye whose paths are red with flame.
+
+p: O @Indra marvellously bright, come, these #libations long for thee, thus by fine fingers purified.
+
+p: Urged by the holy #singer, sped by #song, come, @Indra, to the #meditation.
+
+p: Approach, O @Indra, hasting thee, #Lord of #Bay #Horses, to the #meditation. In our libation take #delight.
+
+p: Ye #Devas, who protect, reward, and cherish #men, approach your #worshipper's drink-#offering.
+
+p: Ye #Devas, swift at #work, come hither quickly to the draught.
+
+p: The #Devas, accept the sacred draught.
+
+p: Wealthy in #spoil, enriched with hymns, with eager love,  'our #offering.
+
+p: Inciter of all pleasant #songs, inspirer of all gracious thought, @Indu accept our #offering
+
+p: @Sarasvati, the #mighty flood, she with her #light illuminates, she brightens every pious thought.
+::end:content
+::begin:meta
+people: @Indu, @Indra, @Asvins, @Nasatyas, @Sarasvati
+things: #Work, #Lord, #Meditation, #Singer, #Offering, #Light, #Treasure, #Food, #Men, #Song, #Mighty, #Grass, #Worshipper, #Delight, #Heroes, #Bay Horses, #Offerings, #Offering, #Libations, #Songs, #Horses, #spoil
+groups: #Devas
+concepts: Wonder-Workers, Love, Holy, Sacred, Offering, Offerings, Libations, Swift
+::end:meta
+::end:hymn:md5-veyMpoS2KoTgCOQJg4oC2g==
+
+::begin:hymn:01004
+## HYMN IV. Indra
+::begin:content
+p: We #call the doer of fair deeds, to our assistance day by day.
+
+p: Come thou to our #libations! The rich One's rapture giveth kine.
+
+p: May we be acquainted with thine innermost benevolence.
+
+p: Go to the #wise unconquered One, ask thou of @Indra, skilled in #song, him who is better than thy #friends.
+
+p: Whether the #men who mock us say, Depart unto another place, Ye who serve @Indra and non else;
+
+p: Or whether, @Deva.of wondrous deeds, all our true #people #call us blest. Still, may we dwell in @Indra's care.
+
+p: Unto the swift One bring the swift, #man-cheering, grace of #offering, that to the #Friend gives #wings and #joy.
+
+p: Thou helpest the #warrior in the fray.
+
+p: We strengthen, thee the powerful, @Indra, we may win us #wealth.
+
+p: To him the #mighty #stream of #wealth, prompt #friend of him, to this @Indra sing your #song.
+::end:content
+::begin:meta
+people: @Indra, @Deva
+things: #Offering, #Wealth, #Men, #Stream, #Song, #Joy, #Wise, #Mighty, #People, #Offering, #Libations, #Friends, #Wings, #Warrior, #Friend, #call
+groups: #Man
+concepts: Offering, Benevolence, Libations, Powerful, Man-Cheering, Fair Deeds, Swift
+::end:meta
+::end:hymn:md5-wZ/fDpQGu1qZ6wJm2aTSKg==
+
+::begin:hymn:01005
+## HYMN V. Indra.
+::begin:content
+p: O @Indra, sit ye down, @Indra sing your #song, companions, bringing hymns of #praise.
+
+p: To him the richest of the rich, the #Lord of #treasure.s #excellent, @Indra, with #Soma.
+
+p: May he stand by us in our need and in abundance for our #wealth: May he come nigh us with his strength.
+
+p: To him, to @Indra sing your #song.
+
+p: For his enjoyment, these pure #drops.
+
+p: Thou, grown at once to perfect strength, was #born together with #Soma, #Strong @Indra, for preëminence.
+
+p: O @Indra, lover of the #song, may they bring #bliss to thee the #Sage.
+
+p: Our chants of #praise have strengthened thee, O @Satakratu, and our praises. So strengthen thee the #songs we sing.
+
+p: @Indra, accept these #offerings thousandfoldwherein all manly #powers abide.
+
+p: O @Indra, thou who lovest #song.
+::end:content
+::begin:meta
+people: @Indra, @Satakratu
+things: #Lord, #Born, #Soma, #Treasure, #Wealth, #Song, #Strong, #Praise, #Excellent, #Powers, #Offerings, #Bliss, #Songs, #Drops, #Sage
+concepts: Strength, Offerings
+::end:meta
+::end:hymn:md5-BeX4EvyyrV0DtZ7lSZ82lw==

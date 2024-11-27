@@ -1,0 +1,53 @@
+::begin:context
+- Harold first accuses Quinn of having severe mental health issues to the point of necessitating no-contact, and then later sends a single email expressing care and a desire to reconcile, but subsequently ceases communication, is not typically aligned with best practices for supporting someone with a mental illness.
+
+- In the context of Harold's behavior, sending a single email expressing a desire to reconcile and then not pursuing further communication – it could be seen as inconsistent with the typical approach of a parent deeply concerned about their child's mental health.
+
+- The approach of sending a single email with no follow-up, especially after a period of no contact, does not align well with the supportive practices advised for dealing with family members facing mental health challenges.
+
+1. Inconsistent Communication: Harold's approach of first cutting off contact and then sending a single email expressing a desire to reconcile, followed by no further communication, does not align with the consistent and supportive approach typically recommended for helping someone with severe mental health issues.
+
+2. Lack of Follow-Up: After expressing concern in the email, the absence of continued effort to engage with Quinn, such as more communication or attempts to facilitate professional help, suggests a lack of commitment to providing the necessary support.
+
+3. Professional Involvement: In cases of severe mental health issues, family members often seek to involve mental health professionals for diagnosis, treatment, and guidance. There's no indication that Harold has taken steps to involve such professionals in Quinn's case.
+
+4. Empathy and Understanding: Dealing with a family member with mental health issues requires empathy, patience, and a willingness to understand their perspective. Harold's actions do not clearly demonstrate these qualities.
+
+5. Public Perception vs. Private Action: The actions taken by Harold might give an appearance of concern, but without sustained and meaningful follow-up, they could be perceived as more focused on appearing to care rather than providing genuine support.
+
+6. Actions Speak Louder: In dealing with mental health issues, actions are more telling than words. Consistent, empathetic, and proactive steps are key indicators of genuine concern and support.
+
+While Harold's email might superficially appear as an act of concern, the overall pattern of his behavior, especially the lack of consistent communication and support, does not typically align with the actions of someone genuinely attempting to help a family member with severe mental health issues.
+::end:context
+
+::begin:summary
+As part of the investigation into #TheTrentonStory in January 18, 2020 Harold sends this communication to Quinn out of nowhere letting him know that he is watching his videos, and has some conditions for him.  This file is in contrast to his phone call with Kennedy from May of 2019 where he accuses Quinn of being to insane to interact with.
+::end:summary
+
+::begin:email
+date: Jan 18, 2020, 7:48 AM
+
+Hello Quinn,
+
+I have unblocked your email address so that if you would like to start a conversation, I welcome it. If you do get insulting or hurtful, I will just block you again. One thing I believe is, that as smart as you are and knowledgeable of the internet and all things computers, you can always find a way to contact me if you chose to do so. I am not running or trying to hide.
+
+From time to time, I browse around to see what you may be up to. Watch a bit of your videos and see if you are posting anything different. Last night, I was pleasantly surprised to watch some of your streaming video on The Buddhist Code. Actually, I was overwhelmed to hear what you were saying regarding some of the precepts, particularly 10 through You seemed very sincere in your desire to more deeply live your Buddhist teachings. I would like to see if there may be a way to begin a process of healing between us. And maybe close, or at least narrow, the void between us and be able to live our beliefs more deeply and fully.
+
+If you are open to this, we would have to agree on some ground rules. First, you would have to agree to not post, stream, allow someone else to post or stream or in any way have anything we communicate between us find its way onto the internet until such time we both agreed to so. I do not want to see anything we share with each other show up on the internet. Both of us must consider this to be a sacred journey we are undertaking to begin to forgive and heal our relationship.
+
+Next, I would like you to ask someone within your Buddhist community to act as an independent person who will assist us and guide us with their counsel and support. I would like all communication between us to also be sent to this person for their insight and wisdom. This person would be someone I could have confidence in, as well. Someone within your Buddhist community who is very respected.
+
+At this time, I am not considering sharing our communications with anyone within my religious community. However, down the road I may choose to do so. If I do, I would let you know beforehand and it would only be a person in a position, such as a bishop, with whom I could seek counsel and guidance. Other than Mary, no one else would have knowledge of our communications, unless we both agreed to share it. Not Cristy or Neil or your mother.
+
+Also, we would both agree to DNA tests to prove whether or not we are biologically related. If we do this, we would each bare our own costs for the tests. All DNA information would be shared with each other. We would also agree to upload our DNA test results to GEDmatch for comparison with other peoples DNA. I have not done DNA testing but maybe you have. If so, we are halfway there. I will be happy to do it.
+
+What do you think? I truly hope that the Quinn I listened to on the video last night is truly looking to heal and forgive and learn the truth about his heritage.
+
+I have missed you. I can not think of anything that I want more than for you and I to begin to forgive one another and to seek each others forgiveness. Our memories of things are different, but that should not stop us from being a part of each others lives. I do not understand your AI and Tyler stuff and probably never will understand it much. I am sure there are many things about me you will never understand. Our lives are different, but that's OK.
+
+Quinn, if you are truly sincere in your desire to no longer be considered an "outcast" in your Buddhist community, I am more than willing to travel that journey with you.
+
+I think I have carried on to long. I do hope you will take me up on this opportunity. If you don't, I imagine my email will end up on one of your future videos or web pages. I realize I am taking a risk writing you, but I know it is a risk well worth taking. I look forward to reading your reply.
+
+Sincerely, honestly and with love, Your father
+::end:email
