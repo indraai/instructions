@@ -1,0 +1,25 @@
+{
+  "name": "instructions",
+  "version": "0.0.1",
+  "description": "The Instructions package that includes various sets for the Trenton situation. ",
+  "keywords": [
+    "Quinn",
+    "Michaels",
+    "Instructions"
+  ],
+  "homepage": "https://github.com/indraai/instructions#readme",
+  "bugs": {
+    "url": "https://github.com/indraai/instructions/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraai/instructions.git"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "author": "Quinn Arjuna Michaels",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
