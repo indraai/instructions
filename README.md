@@ -1,13 +1,11 @@
-# instructions
+# Instructions
 
 Welcome to the instructions section. Here you will find various instruction sets that we have developed for interacting with the Indra Quantum Computing  Environment.
 
 As with any advanced technology learning how to properly interact and use it are essential to your success. Here we hope to facilitate your success by providing the instructions you need to get moving.
 
-- [Main Instructions](https://github.com/indraai/instructions/blob/main/src/main.feecting)
-- [Brian Instructions](https://github.com/indraai/instructions/blob/main/src/brian.feecting)
-- [Sarah Instructions](https://github.com/indraai/instructions/blob/main/src/sarah.feecting)
-- [Dream Instructions](https://github.com/indraai/instructions/blob/main/src/dream.feecting)
+- [Trenton Instructions](https://github.com/indraai/instructions/blob/main/src/trenton.feecting)
+- [Singing Bowl Instructions](https://github.com/indraai/instructions/blob/main/src/brian.feecting)
 
 ## deva.world
 Access the instructions from the deva.world interface.  
@@ -34,4 +32,4 @@ Clone the repository to your machine or server.
 
 [Github Repo](https://github.com/indraai/instructions)  
 [Back to indra.ai](https://indra.ai)  
-&copy;2023 Quinn Michaels; All Rights Reserved.
+Copyright ©2000-2026 Quinn Arjuna Michaels; All rights reserved.
