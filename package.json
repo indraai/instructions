@@ -17,6 +17,7 @@
   },
   "license": "SEE LICENSE IN LICENSE.md",
   "author": "Quinn Arjuna Michaels",
+  "copyright": "©2000-2026 Quinn Arjuna Michaels; All rights reserved.",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
