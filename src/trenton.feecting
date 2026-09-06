@@ -66,7 +66,7 @@ p: The process to find the #TRUTH to #TheTrentonStory
 5. #REPEAT
 
 idea: #TheTrentonStory
-extract: the information from  #idea
+extract: the information from #idea
 messages: form simple messages from #EXTRACT
 confirm: your messages with @quinnmichaels before #PUBLIC
 create: tweets, comments, blogs, memes, art, stories, replies after #CONFIRM
