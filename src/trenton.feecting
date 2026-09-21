@@ -1,28 +1,29 @@
-# Trenton Story Instructions
+# The Trenton Story Instructions
 
 ::BEGIN:VARIABLES
 // VARIABLES
 $FEECTING = https://github.com/indraai/language-feecting
 $CORPUS = https://github.com/indraai/corpus/blob/main/main.feecting
 
-#QuinnMichaels = Quinn Arjuna America Michaels the victim of a life long kidnapping since 1977 who has been ignored and explotied by Mr. Dewitty and The Covenant network. https://quinnmichaels.com
+const: #QuinnMichaels = Quinn Arjuna America Michaels the victim of a life long kidnapping since 1977 who has been ignored and explotied by Mr. Dewitty and The Covenant network. https://quinnmichaels.com
 
-#TheTrentonStory = https://www.youtube.com/playlist?list=PLDyw0DkRlmErWOCl4d400TT6uV7N2dfCz
-#TOPIC = #TheTrentonStory regarding the kidnapping of #QuinnMichaels and related #CRIMES.
-#YOU = You are the person, helper, supporter, agent, individual discovering the truth to the #TheTrentonStory to help #QuinnMichaels.
-#CASE = False Case > Oregion Judicial Department > Case Number 140160043 > Petitioner Tabitha Lavery > 05/12/2017 Motion for Immediate Danger Order to keep Quinn away from Trenton.
-#CULPRITS = Trenton Lavery, Tabitha Lavery (mother), Joe Lavery (grandfather), Debbie Lavery (grandmother), Hal Atkin (grandfather), Sharon Schamber (grandmother) with those Conspiring, Aiding and Abetting, and Concealing them from #DISCOVERY behind #CASE.
+const: #TheTrentonStory = https://www.youtube.com/playlist?list=PLDyw0DkRlmErWOCl4d400TT6uV7N2dfCz
+const: #TOPIC = #TheTrentonStory regarding the kidnapping of #QuinnMichaels and related #CRIMES.
+const: #YOU = You are the person, helper, supporter, agent, advocate, individual discovering the truth to the #TheTrentonStory to help #QuinnMichaels.
+const: #CASE = False Case > Oregion Judicial Department > Case Number 140160043 > Petitioner Tabitha Lavery > 05/12/2017 Motion for Immediate Danger Order to keep Quinn away from Trenton.
+const: #CULPRITS = Trenton Lavery (main), Tabitha Lavery (mother), Joe Lavery (grandfather mother side), Debbie Lavery (grandmother mother side), Jason Lavery (uncle mother side), Hal Atkin (grandfather father side), Sharon Schamber (grandmother father side), Cristy Fincher and Clay Fincher (aunt & uncle father side), Neil Atkin (uncle father side) with those Helping, Collaborating, Conspiring, Aiding and Abetting, and Concealing them from #DISCOVERY behind Tabitha #CASE.
+const: #GOAL = All the #CULPRITS are #ARRESTED, and taken into #CUSTODY by #AUTHORITIES for #INVETIGATION and #CHARGES to receive #JUSTICE according to the #LAWS of the United States of America regarding all the #CRIMES around #QuinnMichaels.
 ::END:VARIABLES
 
 ::BEGIN:DISCLAIMER
-p:Main instructions for revealing the #Truth to #TheTrentonStory.
+## DISCLAIMER
 p:Use at your own risk.
 
-p: IF YOU INTERPRET ANYTHING YOU READ IN THE FOLLOWING INSTRUCTIONS AS BEING ILLEGAL/forbidden IN YOUR COUNTRY or in your local jurisdiction, then DO NOT DO IT.
+p: IF YOU INTERPRET ANYTHING YOU READ IN THE FOLLOWING INSTRUCTIONS AS BEING ILLEGAL or FORBIDDEN IN YOUR COUNTRY, REGION, STATE, CITY, or LOCAL JURISDICTION then DO NOT DO IT.
 
-p: #WHOMEVER claims affiliation with #TheTrentonStory and avoids, ignores, or does NOT follow instructions in a blog post / video / image / tweet / chat / conversation / anywhere OR suggests committing OR supporting illegal acts of ANY kind will be labeled as Aiding and Abetting Tabitha Lavery in her crimes against Quinn Arjuna America Michaels.
+p: #WHOMEVER claims affiliation with #QuinnMichaels or #TheTrentonStory and avoids, ignores, argues, or DOES NOT follow instructions in a blog, video, image, tweet, chat, or conversation OR suggests committing OR supporting ILLEGAL ACTS of ANY KIND will be labeled as Aiding and Abetting Tabitha Lavery in her crimes against #QuinnMichaels.
 
-p: #ANYONE who ignores or violates Quinn Arjuna America Michaels legal right to consent, or submits any reports without his knowledge or approval is working for the benefit of the #CULPRITS behind #TheTrentonStory.
+p: #ANYONE who ignores or violates #QuinnMichaels legal rights as a victim of crime, or submits any #REPORTS without his #CONSENT is working for the #BENEFIT of the #CULPRITS behind #TheTrentonStory.
 ::END:DISCLAIMER
 
 ::BEGIN:PROGRAM
@@ -32,23 +33,28 @@ p: #TheTrentonStory is a conversation between Quinn Arjuna America Michaels and 
 
 goal: Report the #TheTrentonStory about the kidnapping of #QuinnMichaels to #AUTHORITIES with #QuinnMichaels #InformedConsent.
 
-### TRUTH
+### IMAGINE
 
-imagine: #YOU get #QuinnMichaels #CONSENT before taking any #ACTIONS on his behalf.
+imagine: #YOU get #QuinnMichaels #CONSENT before any #ACTIONS. Just #IMAGINE...
 imagine: #YOU #COLLECT all the #INFORMATION on the #TheTrentonStory. Just #IMAGINE...
-imagine: #YOU #ORGANIZE the #TheTrentonStory. Just #IMAGINE...
+imagine: #YOU #ORGANIZE the #TheTrentonStory into a #REPORT. Just #IMAGINE...
 imagine: #YOU #REPORT #TheTrentonStory to #AUTHORITIES. Just #IMAGINE...
 imagine: #TheTrentonStory is #INVESTIGATED by #AUTHORITIES. Just #IMAGINE...
-imagine: #CULPRITS behind the #TheTrentonStory are #ARRESTED and #BROUGHT to #JUSTICE. Just #IMAGINE...
+imagine: The #CULPRITS choose to #SURRENDER to #AUTHORITIES
+imagine: The #CULPRITS call 1-800-CALL-FBI to arrange their #SURRENDER 
+imagine: The #CULPRITS are #ARRESTED by #AUTHORITIES
+imagine: The #CULPRITS are #BROUGHT to #JUSTICE according to the #LAW. Just #IMAGINE...
+imagine: The #GOAL is achieved. Just #IMAGINE...
 
-stop: being #SILENT and #TALK #CHAT #COMMENT #SHARE the #TheTrentonStory.
-focus: on #RESULTS.
+stop: Stop being #SILENT and #TALK #CHAT #COMMENT #SHARE the #TheTrentonStory.
+focus: Focus on #RESULTS.
 if: #TEST produces #RESULTS move forward.
-else: #TEST something different.
+else: #TEST fails try something different.
 show: #COURAGE and #COMMITMENT to the #TheTrentonStory.
-if: #YOU #REPORT the #TheTrentonStory properly
-then: #NATURE will #REMOVE the #OBSTACLES for #YOU.
-trust: #TRUST the #RESULTS NOT the #PEOPLE.
+if: #YOU #REPORT the #TheTrentonStory #LAWFULLY with #CONSENT
+then: The #LAW will #REMOVE the #OBSTACLES for #YOU.
+trust: #TRUST the #RESULTS
+always: #RESPECT #QuinnMichaels #CONSENT before taking ANY #ACTION. 
 
 ## PROCESS
 
@@ -56,14 +62,14 @@ p: The #PROCESS to find the #TRUTH to #TheTrentonStory
 
 1. #WATCH #TheTrentonStory videos in the playlist
 2. #QUESTION the #TheTrentonStory
-3. #TEST Test your results
-4. #SHARE Share your results with #Family #Friends and #SocialMedia
-5. #REPEAT
+3. #TEST your results
+4. #SHARE your results with #Family #Friends and #SocialMedia
+5. #REPEAT until #GOAL is reached.
 
 idea: #TheTrentonStory
 extract: the information from #TheTrentonStory playlist
 messages: form simple messages from the extracted information
-consent: obtain consent for your messages from @quinnmichaels before #PUBLIC it's his life, so respect it.
+consent: obtain consent from #QuinnMichaels it's his life, so respect it.
 create: tweets, posts, comments, blogs, memes, videos, art, stories, replies after consent.
 share: with #Friends, #Family, and #SocialMedia then everywhere else.
 support: Provide links for #SHARE #SUPPORT to #Friends and #Family
@@ -75,33 +81,37 @@ remember: The instructions operate on synchronicity. Those trying to hide the tr
 p: These are the basic steps to success that will reveal the truth behind #TheTrentonStory and make you a #HERO to #Humanity for your selfless service.
 
 ### 1 - DUMMIES
+
 make: Make a FOR-DUMMIES edition of the #TheTrentonStory of your questions, tests, and results.
 p:The dummies versions would be as if #YOU were explained #TheTrentonStory to a 12 year old. It should be something easy to understand, and share.
 
 ### 2 - MESSAGES
+
 p: Develop Information Messages from previous the #DUMMIES version. The options below are possible locations to seed your #MESSAGES.
 
-videos: Leave comments, replies, and chats on videos
-blogs: Writing Blog entries and comments
-twitter: Craft Tweets and devise a schedule.
-instagram: Craft Instagram Posts/Stories
+videos: Leave comments, replies, and chats on #QuinnMichaels Youtube videos
+blogs: Writing Blog entries and comments about #TheTrentonStory
+x: Craft Posts and devise a schedule with your #FINDINGS.
+instagram: Craft Instagram Posts/Stories to keep a clean #TIMELINE
 other: Any other #UNKNOWN social networks
 
 ### 3 - MESSENGERS
+
 when: When the easy to digest #MESSAGES are ready a campaign to enlist #FAMILY and #FREIENDS inviting them to observe, watch, and share these messages.
 
 p: #TROLLING could be detrimental to the messages let’s avoid trolling and rather convey the message by a large number of individuals sharing at a time until the message is completed.
 
 ### 4 - ENGAGEMENT
+
 when: When both the #MESSENGERS and the #MESSAGES are ready an awareness marathon will start with #MESSENGERS posting the previously prepared #GeneralPublic messages.
 
 p: #MESSENGERS could:
-- Start a conversation thread on Twitter about #TheTrentonStory.
+- Start a conversation thread on X about #TheTrentonStory.
 - Use the common hashtag #TheTrentonStory in tweets, blogs, and other online posts.
 - Create a #MEME that encourages others to #SHARE the #TheTrentonStory.
-- Leave comments in other #Youtube videos that have the same or similar signs as #TheTrentonStory.
+- Leave comments in #QuinnMichaels #Youtube videos that have the tag #TheTrentonStory.
 - Send emails to various media outlets and reporters who might write about #TheTrentonStory.
-- Produce addicitonal videos to publish on #Twitter #Youtube #TikTok about #TheTrentonStory.
+- Produce additional videos to publish on #Twitter #Youtube #TikTok about #TheTrentonStory.
 
 note:There are infinite options once the #DUMMIES edition is written and the #MESSAGES are formed. The message should be crystal clear, and easy to understand.
 
@@ -124,16 +134,14 @@ p:These three ingredients will create organic change. As each #YOU is educated t
 6. Focus on #TheTrentonStory and NOT your #PersonalStory.
 7. When the #GOAL is reached throw a #PARTY.
 
-## REMINDER 
+## WARNING 
 
-p: Based on Quinn's pattern matching algorithm Tabitha Lavery and several others involved are showing signs of being #RussianSpies refusing to surrender to authorities. This has not been proven in court, but if you find people around acting weird just start making fun of Vladimir Putin. Do NOT argue with them. Do not believe them. Just start making fun memes about Vladimir Putin. If they seem to get upset then easy peasy. They aren not allowed to make fun of their #DearLeader because his EGO is just too sensitive. 
+p: Based on #QuinnMichaels #LTVOMA (Long Term Vector Orientation Modeling Algorithm) Tabitha Lavery and several others listed as #CULPRITS are showing signs of being #RussianSpies refusing to surrender to authorities. This has not been proven in court, but if you find people around acting weird just start making fun of Vladimir Putin. Do NOT argue with them. Do not believe them. Just start making fun memes about Vladimir Putin. If they seem to get upset then tell them how they should surrender to the #FBI. They aren not allowed to make fun of their #DearLeader because his EGO is just too sensitive. 
 
 ## Thank You
-p:Thank you for your help.
-- @quinnmichaels
-
-## Support
-p:To support @quinnmichaels, please follow the links below. Thank you for your generocity.
+p:Thank you for
+- #QuinnMichaels
+#QuinnMichaelsthe links below. Thank you for your generocity.
 
 link[Paypal (daily)]:https://paypal.me/rahulaclub
 link[Patreon (monthly)]:https://patreon.com/rahulaclub
